@@ -1,0 +1,37 @@
+{
+
+	"messages" : {
+
+		"app" : {
+
+			"msj1" : "Aplicación corriendo en el puerto : "
+		},
+		"db" : {
+
+			"msj1" : "Conección exitosa"
+
+		},
+		"User" : {
+
+			"msj1" : "Usuario registrado exitosamente",
+			"msj2" : "El usuario ya se encuentra registrado",
+			"msj3" : "Usuario dado de baja exitosamente"
+
+		},
+		"Login" : {
+
+			"msj1" : "Usuario identificado exitosamente"
+
+		},
+		"Post" : {
+
+			"msj1" : "Post guardado exitosamente",
+			"msj2" : "Post guardado como borrador",
+			"msj3" : "Post eliminado exitosamente",
+			"msj4" : "Post archivado exitosamente"
+
+		}
+
+	}
+
+}

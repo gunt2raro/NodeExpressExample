@@ -1,0 +1,49 @@
+{
+    	"errors" : {
+
+	    	"app" : {
+
+			"err1" : "Sintaxis incorrecta",
+			"err2" : "Faltan datos",
+			"err3" : "Parametro inválido",
+			"err4" : "Objecto no válido"
+
+		},
+
+		"db" : {
+
+			"err1" : "Hubo un error de conección",
+			"err2" : "La base de datos no se encontró",
+			"err3" : "Problemas de conección"
+		},
+
+		"User" : {
+
+			"err1" : "Hubo un error regisrando el usuario",
+			"err2" : "Hubo un error dando de baja el usuario"
+
+		},
+
+		"Login" : {
+
+			"err1" : "Hubo un error identificando el usuario",
+			"err2" : "Contraseña no válida",
+			"err3" : "Usuario no válido",
+			"err4" : "Email no válido",
+			"err5" : "Usuario y contraseña no valida"
+
+		},
+
+		"Post" : {
+
+			"err1" : "Hubo un error guardando el post",
+			"err2" : "Faltan párametros en el objeto post",
+			"err3" : "url no válida",
+			"err4" : "Imagen muy grande",
+			"err5" : "Título muy grande",
+			"err6" : "Contenido muy grande",
+			"err7" : "Post no se encontró"
+
+		}
+	}
+}
